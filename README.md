@@ -19,7 +19,7 @@ El objetivo **NO** es competir con modelos grandes (GPT, BERT), sino **entender 
     - explicación teórica paso a paso
     - implementación en PyTorch
     - entrenamiento y generación token a token
-- `dataset_emocional_*.txt`
+- `dataset_bigmodelmac7000.txt`
   - Conjunto de datasets en formato texto (input \t output)
 - `README.md`
   - Este documento
