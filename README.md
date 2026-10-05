@@ -238,6 +238,6 @@ Este repositorio muestra **la arquitectura** y **el flujo real de información**
 
 Proyecto creado con fines **educativos y académicos** para explicar Transformers de forma clara, honesta y reproducible.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Cotrina-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mcotrina/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Cotrina-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/miguelcotrinaia/)
 
 > IA & Data con propósito
